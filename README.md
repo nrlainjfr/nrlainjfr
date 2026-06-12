@@ -2,7 +2,7 @@
 
 ![header](https://i.pinimg.com/originals/ea/bd/aa/eabdaac2cd406225f8391d6cbfeeba63.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nurul+Ain+Jafridin+🌸;Student+at+UKM+💻;Enhypen+in+repeat+🎧;Surviving+on+ntrial+and+error+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Annyeonghaseyo!+I'm+Nurul+Ain+Jafridin+🌸;Student+at+UKM+💻;Enhypen+in+repeat+🎧;Surviving+on+trial+and+error+✨)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,9 +56,9 @@
 
 ---
 
-### 🩷 let's connect
+### 🩷 1,2 Connect~
 
-- 📧 &nbsp; [nurulainjfr@email.com](mailto:nurulainjfr@email.com)
+- 📧 &nbsp; [nurulainjfr@gmail.com](mailto:nurulainjfr@gmail.com)
 - 💼 &nbsp; [https://www.linkedin.com/in/nurul-a-228340266/](https://www.linkedin.com/in/nurul-a-228340266/)
 
 ---
