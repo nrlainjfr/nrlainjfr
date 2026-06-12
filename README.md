@@ -65,6 +65,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,ffb3d1,ff8fab&height=120&section=footer&text=thanks%20for%20visiting%20~&fontSize=22&fontColor=ffb3d1&fontAlignY=70" width="100%"/>
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+### 🩷 thanks for visiting ~ 🩷
 
 </div>
