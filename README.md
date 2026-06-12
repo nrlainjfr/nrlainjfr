@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![](https://i.pinimg.com/originals/8e/dd/25/8edd25eaef846269172c3c8ed5cb1e08.gif)
 
 ### 🩷 thanks for visiting ~ 🩷
 
