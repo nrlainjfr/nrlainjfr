@@ -1,25 +1,24 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,ffb3d1,ff8fab&height=200&section=header&text=nrlainjfr%20🩷&fontSize=50&fontColor=fff&fontAlignY=35&desc=student%20·%20builder%20·%20enha%20in%20repeat&descAlignY=55&descSize=16&descFontColor=ffd6e8)
+![header](https://i.pinimg.com/originals/ea/bd/aa/eabdaac2cd406225f8391d6cbfeeba63.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+nrlainjfr+🌸;Student+at+UKM+💻;Enhypen+in+repeat+🎧;Always+learning+new+things+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nurul+Ain+Jafridin+🌸;Student+at+UKM+💻;Enhypen+in+repeat+🎧;Surviving+on+ntrial+and+error+✨)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🎀 about me
+### 🎀 About Me
 
 ```
 🎓  Student at Universiti Kebangsaan Malaysia (UKM)
 💻  Building things with code & too much coffee
 🎧  enha in repeat — always, no exception
-🌸  she/her
 ```
 
 ---
 
-### 🛠️ skills & tech
+### 🛠️ Skills & Tech
 
 <div align="center">
 
@@ -36,7 +35,7 @@
 
 ---
 
-### 🌷 my projects
+### 🌷 My Projects
 
 | project | description | tech |
 |---|---|---|
@@ -45,7 +44,7 @@
 
 ---
 
-### 📊 github stats
+### 📊 Github Stats
 
 <div align="center">
 
@@ -57,11 +56,10 @@
 
 ---
 
-### ✨ currently
+### 🩷 let's connect
 
-🎧 &nbsp; enhypen on repeat  
-🌸 &nbsp; learning new things  
-☕ &nbsp; coffee always  
+- 📧 &nbsp; [nurulainjfr@email.com](mailto:nurulainjfr@email.com)
+- 💼 &nbsp; [https://www.linkedin.com/in/nurul-a-228340266/](https://www.linkedin.com/in/nurul-a-228340266/)
 
 ---
 
@@ -69,6 +67,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,ffb3d1,ff8fab&height=100&section=footer&fontColor=fff)
 
-*thanks for visiting ~ 🩷*
+*thanks for visiting ~*
 
 </div>
