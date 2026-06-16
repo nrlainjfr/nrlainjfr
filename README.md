@@ -2,7 +2,7 @@
 
 ![header](https://i.pinimg.com/originals/ea/bd/aa/eabdaac2cd406225f8391d6cbfeeba63.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Annyeonghaseyo!+I'm+Nurul+Ain+Jafridin+🌸;Student+at+UKM+💻;Enhypen+in+repeat+🎧;Surviving+on+trial+and+error+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Annyeonghaseyo!+I'm+Nurul+Ain+Jafridin+🌸;Student+at+Universiti+Kebangsaan+Malaysia+💻;Enhypen+in+repeat+🎧;Surviving+on+trial+and+error+✨)](https://git.io/typing-svg)
 
 </div>
 
