@@ -59,7 +59,7 @@
 ### 🩷 1,2 Connect~
 
 - 📧 &nbsp; [nurulainjfr@gmail.com](mailto:nurulainjfr@gmail.com)
-- 💼 &nbsp; [https://www.linkedin.com/in/nurul-a-228340266/](https://www.linkedin.com/in/nurul-a-228340266/)
+- 💼 &nbsp; [https://www.linkedin.com/in/nurul-a-228340266/](https://www.linkedin.com/in/nrlainjfri/)
 
 ---
 
