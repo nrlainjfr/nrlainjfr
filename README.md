@@ -13,7 +13,6 @@
 ```
 🎓  Student at Universiti Kebangsaan Malaysia (UKM)
 💻  Building things with code & too much coffee
-🎧  Enha in repeat — always, no exception
 ```
 
 ---
