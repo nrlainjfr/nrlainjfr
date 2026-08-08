@@ -36,10 +36,10 @@
 
 ### 🌷 My Projects
 
-| project | description | tech |
+| Project | Description | Tech |
 |---|---|---|
 | 🩷 **SuaraRasa** | Android app for mental health & emotional well-being | Kotlin |
-| 📚 **University** | Final assignment OOP coding project | HTML |
+| 📚 **VarsityMart** | Web-based e-commerce marketplace for UKM students to buy and sell new or preloved items securely. | Laravel |
 
 ---
 
@@ -58,7 +58,7 @@
 ### 🩷 1,2 Connect~
 
 - 📧 &nbsp; [nurulainjfr@gmail.com](mailto:nurulainjfr@gmail.com)
-- 💼 &nbsp; [https://www.linkedin.com/in/nurul-a-228340266/](https://www.linkedin.com/in/nrlainjfri/)
+- 💼 &nbsp; [https://www.linkedin.com/in/nrlainjfri/](https://www.linkedin.com/in/nrlainjfri/)
 
 ---
 
@@ -66,6 +66,6 @@
 
 ![](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 
-### 🩷 thanks for visiting ~ 🩷
+### 🩷 Thanks for visiting ~ 🩷
 
 </div>
