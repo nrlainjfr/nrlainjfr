@@ -39,7 +39,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🩷 **SuaraRasa** | Android app for mental health & emotional well-being | Kotlin |
-| 📚 **VarsityMart** | Web-based e-commerce marketplace for UKM students to buy and sell new or preloved items securely. | Laravel |
+| 🛍️ **VarsityMart** | Web-based e-commerce marketplace for UKM students to buy and sell new or preloved items securely. | Laravel |
 
 ---
 
