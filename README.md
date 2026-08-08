@@ -11,7 +11,7 @@
 ### 🎀 About Me
 
 ```
-🎓  Student at Universiti Kebangsaan Malaysia (UKM)
+🎓  Student at National University of Malaysia (UKM)
 💻  Building things with code & too much coffee
 ```
 
@@ -47,10 +47,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nrlainjfr&show_icons=true&theme=radical&bg_color=1c0e14&border_color=ff6b9d&icon_color=ff6b9d&title_color=ffb3d1&text_color=ffd6e8&hide_border=false" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nrlainjfr&show_icons=true&theme=radical&bg_color=1c0e14&border_color=ff6b9d&icon_color=ff6b9d&title_color=ffb3d1&text_color=ffd6e8&hide_border=false" height="150"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrlainjfr&layout=compact&theme=radical&bg_color=1c0e14&border_color=ff6b9d&title_color=ffb3d1&text_color=ffd6e8" height="150"/>
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nrlainjfr&layout=compact&theme=radical&bg_color=1c0e14&border_color=ff6b9d&title_color=ffb3d1&text_color=ffd6e8" height="150"/>
 </div>
 
 ---
